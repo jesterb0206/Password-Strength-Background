@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+.background {
+  background: url('https://images.unsplash.com/photo-1556745757-8d76bdb6984b')
+    no-repeat center center/cover;
+  bottom: -20px;
+  filter: blur(20px);
+  left: -20px;
+  position: absolute;
+  right: -20px;
+  top: -20px;
+  z-index: -1;
+}
