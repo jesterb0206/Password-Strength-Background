@@ -15,11 +15,11 @@
 
 <br>
 
-![Password Strength Background]()
+![Password Strength Background](images/password-strength-background.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Password-Strength-Background/)
 
 <br>
 
